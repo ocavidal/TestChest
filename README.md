@@ -1,2 +1,2 @@
-# spQuery
-SunPlus Alternative Query Application
+# TestChest
+Test repository and generator
